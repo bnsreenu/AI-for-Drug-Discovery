@@ -2,7 +2,7 @@
 
 This repository contains the Python code, notebooks, and supporting material for the **AI for Drug Discovery** YouTube series by Sreenivas Bhattiprolu.
 
-The goal of this series is to explain how modern AI and machine learning methods are actually used across the drug discovery pipeline — with a strong focus on practical workflows, scientific reasoning, and realistic data analysis rather than toy examples.
+The goal of this series is to explain how modern AI and machine learning methods are actually used across the drug discovery pipeline, with a strong focus on practical workflows, scientific reasoning, and realistic data analysis rather than toy examples.
 
 The tutorials are designed for:
 - Scientists entering AI/ML
