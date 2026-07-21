@@ -1,0 +1,11 @@
+compound_id,concentration_uM,response_pct
+compound_E_inactive,0.001,100.6
+compound_E_inactive,0.003594,99.9
+compound_E_inactive,0.012915,95.67
+compound_E_inactive,0.046416,98.81
+compound_E_inactive,0.16681,98.41
+compound_E_inactive,0.599484,98.77
+compound_E_inactive,2.154435,101.05
+compound_E_inactive,7.742637,98.78
+compound_E_inactive,27.825594,100.38
+compound_E_inactive,100.0,98.24

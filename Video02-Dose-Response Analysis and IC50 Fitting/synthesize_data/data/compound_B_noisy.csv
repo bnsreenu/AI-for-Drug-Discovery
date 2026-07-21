@@ -1,0 +1,11 @@
+compound_id,concentration_uM,response_pct
+compound_B_noisy,0.001,87.44
+compound_B_noisy,0.003594,88.65
+compound_B_noisy,0.012915,97.06
+compound_B_noisy,0.046416,83.5
+compound_B_noisy,0.16681,86.14
+compound_B_noisy,0.599484,77.24
+compound_B_noisy,2.154435,19.120000000000005
+compound_B_noisy,7.742637,15.849999999999994
+compound_B_noisy,27.825594,-9.879999999999995
+compound_B_noisy,100.0,0.7000000000000028
